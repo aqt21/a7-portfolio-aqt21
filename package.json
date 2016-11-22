@@ -1,0 +1,26 @@
+{
+  "name": "a7-portfolio-aqt21",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "material-ui": "^0.16.1",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-fontawesome": "^1.4.0",
+    "react-tap-event-plugin": "^1.0.0",
+	"recharts": "^0.17.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "http://http://students.washington.edu/aqt21/info343/aqts-resume"
+}

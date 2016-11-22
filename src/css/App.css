@@ -1,0 +1,47 @@
+body {
+	background-color: #EBEBEB;
+	color: black;
+	font-family: Gotham !important;
+}
+
+.children {
+    margin:0px;
+}
+
+header {
+	background-color: white;
+	overflow: hidden;
+	width:0px;
+	height:447px;
+}
+
+.headerBackground {
+	background-color: white;
+}
+
+.headerContent {
+	display: none;
+}
+
+.headerPic {
+	background-image: url("../imgs/skylinestencil.png"); 
+	background-repeat: no-repeat;
+	background-position: -50px -400px;
+	height: 447px;
+	width:100%;
+	margin: 0px;
+	padding-top: 40px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	transition: background 3s linear;
+}
+
+h2 {
+	background-color: rgba(0,0,0,0.8);
+	margin: 0px;
+	padding: 20px;
+}
+
+h3 {
+	padding: 10px;
+	margin-top: 0 !important;
+}
